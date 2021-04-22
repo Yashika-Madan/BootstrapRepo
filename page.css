@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #f4511e !important;
+}
+.navbar a{
+    color: rgb(37, 122, 26) !important;
+    font-size: 20px !important;
+}
+.navbar-nav a:hover, .navbar-nav .active {
+    background-color: white !important;
+    /* color: white !important; */
+}
+.navbar-brand{
+    font-size: 35px !important;
+}
+.logo-small {
+    color: #f4511e;
+    font-size: 50px;
+  }

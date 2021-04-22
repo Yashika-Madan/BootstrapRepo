@@ -18,14 +18,14 @@
     background-color: #fff !important;
   }
   
-  /* .navbar-default .navbar-toggle {
+  .navbar-default .navbar-toggle {
     border-color: transparent;
     color: #fff !important;
     
-  } */
+  }
   .jumbotron  {
     background-color: #f4511e;
-    color: #ffffff;
+    color: #ffffff !important;
 
   }
   .center {
